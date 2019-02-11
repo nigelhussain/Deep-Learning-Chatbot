@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 import time
 
-timeframe = '2017-03'
+timeframe = '2019-01'
 sql_transaction = []
 start_row = 0
 cleanup = 1000000
